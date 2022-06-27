@@ -1,12 +1,18 @@
 # Konichiwa 👋
 
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ArmashXD/ArmashXD/blob/main/assets/208593.gif">
+</div>
+
 </br>
 </br>
 </br>
 
 # About ME 💬 :
 
-### - Self learning software engineer through research and development. Passionate about code and I don't know life ??.
+### - Self learning software engineer through research and development.
+### - Passionate about code and I don't know life ??.
 
 <img hight="150" width="300" alt="GIF" align="right" src="https://github.com/ArmashXD/ArmashXD/blob/main/assets/13626.gif">
 
