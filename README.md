@@ -8,7 +8,7 @@
 
 ### - Self learning software engineer through research and development. Passionate about code and I don't know life ??.
 
-<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/ArmashXD/ArmashXD/blob/main/assets/13626.gif">
+<img hight="150" width="300" alt="GIF" align="right" src="https://github.com/ArmashXD/ArmashXD/blob/main/assets/13626.gif">
 
 
 ### - Hobbies : 
