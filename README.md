@@ -1,10 +1,3 @@
-# Konichiwa 👋
-
-</br>
-</br>
-
-# About ME 💬 :
-
 ### - Self learning software engineer through research and development.
 ### - Passionate about code and I don't know life ??.
 
@@ -26,14 +19,10 @@
 
 <p align="center">
 
-
-
-
-
 # Contact Me :
 
 <p>
- </br>
+</br>
 
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/ArmashXD/ArmashXD/blob/main/assets/93195.gif">
