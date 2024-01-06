@@ -3,9 +3,6 @@
 ### - Most recent projects created with Node, React, etc.
 
 
-*************
-<img hight="150" width="300" alt="GIF" align="right" src="https://github.com/ArmashXD/ArmashXD/blob/main/assets/13626.gif">
-
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
